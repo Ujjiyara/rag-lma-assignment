@@ -1,0 +1,7 @@
+pymupdf>=1.26
+numpy>=1.26
+pandas>=2.2
+python-dotenv>=1.0
+sentence-transformers>=5.0
+google-genai>=1.66
+jupyter

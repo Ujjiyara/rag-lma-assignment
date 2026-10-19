@@ -1,0 +1,9 @@
+# secrets
+.env
+# downloaded document (fetched by the notebook)
+data/*.pdf
+# course handout
+RAG_LMA_Assignment_v1.pdf
+.ipynb_checkpoints/
+__pycache__/
+.claude/
