@@ -1,6 +1,6 @@
 # RAG Assignment: Baseline vs. Re-Ranking
 
-**Name:** Saksham
+**Name:** Saksham  **GitHub:** https://github.com/Ujjiyara/rag-lma-assignment
 
 ## Setup
 
